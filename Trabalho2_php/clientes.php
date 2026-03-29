@@ -72,8 +72,8 @@
             <tr>
             <th>id</th>
             <th>Nome</th>
-            <th>Editar</th>
             <th>Excluir</th>
+            <th>Editar</th>
             </tr>
             <?php
             

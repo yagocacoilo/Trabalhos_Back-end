@@ -77,8 +77,8 @@
             <th>Produto</th>
             <th>Valor</th>
             <th>Data</th>
-            <th>Editar</th>
             <th>Excluir</th>
+            <th>Editar</th>
             </tr>
             <?php
                 $resultado = mysqli_query($conexao, $query);
